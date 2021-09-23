@@ -1,0 +1,3 @@
+isOnline=true
+
+puts isOnline
